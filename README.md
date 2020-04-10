@@ -5,4 +5,4 @@
 This is just a test repository to work with Git commands.
 
 ## License
-[MIT License](LICENSE)
+The MIT License (MIT). Please see [License](LICENSE) for more information.
