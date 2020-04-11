@@ -1,4 +1,4 @@
-let month = 6;
+let month = 4;
 
 switch (month) {
     case 1:
