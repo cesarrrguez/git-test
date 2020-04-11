@@ -33,6 +33,18 @@ switch (month) {
         console.log('Month is August');
         break;
 
+    case 8:
+        console.log('Month is September');
+        break;
+
+    case 8:
+        console.log('Month is October');
+        break;
+
+    case 8:
+        console.log('Month is November');
+        break;
+
     case 12:
         console.log('Month is December');
         break;
